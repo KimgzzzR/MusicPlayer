@@ -34,7 +34,7 @@ from core import (
     get_spotify_playlist, get_youtube_playlist)
 
 
-REPO = """
+#REPO = """
 🤖 **Music Player**
 
 - License: AGPL-3.0-or-later
