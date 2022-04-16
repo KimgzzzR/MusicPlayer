@@ -1,5 +1,5 @@
 #"""
-Music Player, Telegram Voice Chat Bot
+#Music Player, Telegram Voice Chat Bot
 
 
 This program is free software: you can redistribute it and/or modify
